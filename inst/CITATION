@@ -1,0 +1,10 @@
+citHeader("To cite datasetsICR in publications use:")
+
+citEntry(entry = "Book",
+  title        = "An Introduction to Clustering with R",
+  author       = personList(as.person("P. Giordani"), as.person("M.B. Ferraro"), as.person("F. Martella")),
+  year         = "2020",
+  publisher    = "Springer, Singapore",
+  textVersion  =
+paste("P. Giordani, M.B. Ferraro, F. Martella (2020). An Introduction to Clustering with R. Springer, Singapore")
+)
